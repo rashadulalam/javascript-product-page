@@ -1,0 +1,18 @@
+body {
+    background: rgb(225, 225, 225);
+}
+.single_product {
+    background-color: #fff;
+
+}
+.single_product h5,
+.single_product h3,
+.single_product p {
+    padding: 0 10px
+}
+.single_product h5 {
+    padding-top: 10px;
+}
+.single_product p {
+    padding-bottom: 10px;
+}
