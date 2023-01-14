@@ -1,9 +1,7 @@
-body {
-    background: rgb(225, 225, 225);
-}
+
 .single_product {
     background-color: #fff;
-
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.075)!important;
 }
 .single_product h5,
 .single_product h3,
@@ -15,4 +13,7 @@ body {
 }
 .single_product p {
     padding-bottom: 10px;
+}
+.single_product img {
+    width: 100% !important;
 }
